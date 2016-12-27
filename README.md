@@ -1,7 +1,7 @@
 # OptoMC-homogeneous
-Homogeneous Monte Carlo Simulation with Direct Photon Flux Recording Strategy for Optogenetics
+Homogeneous Monte Carlo Simulation Using Direct Photon Flux Recording Strategy for Optogenetics
 
-This version without a meshed geometry is easy to understand and guarantee faster answers for the homogeneous fiber-optic optogenetics applications.
+This version has no mesh geometry, providing quick solution, easy to understand.
 
-To run the code from the begining, please excute: optomc_homo.m
-To visualize the pre-computed results, please excute: visualization.m
+To run the code from scratch, run:  'optomc_homo.m'
+To visualize precomputed results, run:  'visualization.m'
